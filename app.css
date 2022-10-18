@@ -1,8 +1,25 @@
-body {
-	color: red;
+ #special-tag { 
+ background-color: blue; 
+} 
+ 
+p { 
+ color: red; 
+} 
+ 
+.group { 
+ border: 1px solid green; 
+} 
+ 
+.top-parent { 
+ border: 4px dotted; 
+ color: orange; 
+ width: 10em; 
+ min-height: 50px; 
+} 
+ 
+.bottom-parrent { 
+ border: 2px dashed; 
+ color: violet; 
+ width: 100px; 
+ min-height: 4rem; 
 }
-p {
-	background-color:Blue;
-	border:2px green;
-}
-
